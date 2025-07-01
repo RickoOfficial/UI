@@ -1,0 +1,19 @@
+{
+	"name": "ui",
+	"version": "1.0.0",
+	"description": "",
+	"homepage": "https://github.com/RickoOfficial/UI#readme",
+	"bugs": {
+		"url": "https://github.com/RickoOfficial/UI/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/RickoOfficial/UI.git"
+	},
+	"license": "ISC",
+	"author": "Danila Mitrichev",
+	"type": "module",
+	"scripts": {
+		"build": "node build.js"
+	}
+}
